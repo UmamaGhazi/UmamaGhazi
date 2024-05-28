@@ -1,3 +1,4 @@
+![logo](https://github.com/UmamaGhazi/UmamaGhazi/blob/main/Cyan%20and%20Black%20Modern%20Tech%20Learn%20Programming%20Instagram%20Post.png)
 <h1 align="center">Hi, I'm Umama Ghazi</h1>
 <h3 align="center">A passionate computer science student from pakistan</h3>
 
